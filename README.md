@@ -4,7 +4,7 @@ A complete browser-based arcade space shooter — 30 campaign sectors, evolving 
 
 ---
 
-Play Now()
+[Play Now](https://raayancoding.github.io/stellar-wars)
 ---
 
 ## Controls
